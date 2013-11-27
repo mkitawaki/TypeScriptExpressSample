@@ -12,7 +12,6 @@ npm install -g typescript
 
 ```
 git clone https://github.com/mkitawaki/TypeScriptExpressSample.git
-
 ```
 
 ```
