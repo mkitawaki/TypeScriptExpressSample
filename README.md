@@ -11,7 +11,7 @@ npm install -g typescript
 ##Getting Started
 
 ```
-git clone 
+git clone https://github.com/mkitawaki/TypeScriptExpressSample.git
 
 ```
 
@@ -31,6 +31,8 @@ tsc --module commonJs app.ts routes/index.ts routes/user.ts
 node app.js
 ```
 
-browser access
+Web Browser Access
 
-  http://localhost:3000
+```
+http://localhost:3000
+```
